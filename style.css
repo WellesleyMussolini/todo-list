@@ -1,7 +1,6 @@
-body {
-  background-color: rgb(78, 73, 73);
+body{
+  background-color: #878787;
 }
-
 .task-list {
   position: absolute;
   left: 50%;
@@ -99,10 +98,6 @@ li:hover,
   opacity: 1;
   visibility: visible;
 }
-body{
-background-color: #878787;
-}
-
 .wrapper{
 position: absolute;
 top: 20px;
@@ -195,11 +190,6 @@ visibility: hidden;
 opacity: 1;
 visibility: visible;
 }
-body{
-background-color: #878787;
-}
-
-
 .wrapper2{
 position: absolute;
 top: 20px;
